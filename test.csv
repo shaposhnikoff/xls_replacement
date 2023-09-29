@@ -1,6 +1,4 @@
-Identifier; First name; Last name
-901242;Rachel;Booker
-207074;Laura;Grey
-408129;Craig;Johnson
-934600;Mary;Jenkins
-507916;Jamie;Smith
+Database Name,Table Name
+local_rbua_data_mebius,local_rbua_data_mebius
+local_rbua_data_mebius,rbua-cardtr-dev-camunda
+local_rbua_data_mebius,rbua-channels-dev-rbo
