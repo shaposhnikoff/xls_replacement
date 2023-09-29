@@ -1,4 +1,4 @@
 Database Name,Table Name,Action
-local_rbua_data_mebius,local_rbua_data_mebius,
-local_rbua_data_mebius,rbua-cardtr-dev-camunda,
-local_rbua_data_mebius,rbua-channels-dev-rbo,
+local_rbua_data_mebius,local_rbua_data_mebius,+
+local_rbua_data_mebius,rbua-cardtr-dev-camunda,+
+local_rbua_data_mebius,rbua-channels-dev-rbo,-
